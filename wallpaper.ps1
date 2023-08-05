@@ -21,4 +21,4 @@ public class Wallpaper
 "@
 Add-Type -TypeDefinition $setwallpapersrc
 
-[Wallpaper]::SetWallpaper("N:\AU\Adelaide\Service\Building Services\Revit Library\Electrical (New)\Details\ss\Barbie-Wallpaper-For-Pc-4k-Download-2048x1280.jpg")
+[Wallpaper]::SetWallpaper("\\ghdnet\ghd\AU\Adelaide\Service\Building Services\Revit Library\Electrical (New)\Details\ss\Barbie-Wallpaper-For-Pc-4k-Download-2048x1280.jpg")
